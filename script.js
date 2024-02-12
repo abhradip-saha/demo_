@@ -19,7 +19,7 @@ currencies.forEach((currency) => {
 });
 
 //Setting default values
-fromDropDown.value = "USD";
+fromDropDown.value = "INR";
 toDropDown.value = "INR";
 
 let convertCurrency = () => {
